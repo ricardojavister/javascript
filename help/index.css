@@ -1,0 +1,12 @@
+.container
+{
+  max-width: none;
+  margin: 0 auto;
+}
+.container .row .col .card ul li.correct
+{
+  background-color: greenyellow;
+  color : black;
+  font-size: 120%;
+  font-weight: bold;
+}
