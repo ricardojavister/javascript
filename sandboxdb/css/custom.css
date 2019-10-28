@@ -1,0 +1,7 @@
+@media (min-width: 1200px)
+{
+	.container {
+	    margin: 0 auto;
+	}
+}
+#success_message{ display: none;}
